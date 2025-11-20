@@ -1,0 +1,5 @@
+{
+  "name": "Classic Password Generator",
+  "description": "A classic, simple, and clean password generator web application with a light/dark theme, essential features, a password strength indicator, and an 'About Us' section.",
+  "requestFramePermissions": []
+}
